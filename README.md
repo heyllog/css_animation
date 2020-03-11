@@ -1,1 +1,2 @@
-# css_animation
+# Css animations
+Лабораторная работа #2 по Web-программированию
