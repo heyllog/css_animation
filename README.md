@@ -1,2 +1,2 @@
-# Css animations
-Лабораторная работа #2 по Web-программированию
+# CSS Animations
+Лабораторная работа #2 по Web-программированию https://heyllog.github.io/css_animation/
